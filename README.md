@@ -8,6 +8,4 @@ This is a section of the Javascript Blockchain/Smart Contract FreeCodeCamp Cours
 
 ![App](img/readme-app.png)
 
-
-# nextjs-lottery
-# nextjs-lottery
+# nextjs-smartcontract-lottery-fcc
