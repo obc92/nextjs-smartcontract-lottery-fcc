@@ -10,4 +10,3 @@ This is a section of the Javascript Blockchain/Smart Contract FreeCodeCamp Cours
 
 
 # nextjs-lottery
-# nextjs-lottery
